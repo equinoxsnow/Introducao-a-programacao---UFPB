@@ -1,0 +1,9 @@
+a = int(input("Insira o primeiro número:"))
+b = int(input("Insira o segundo número:"))
+c = int(input("Insira o terceiro número:"))
+if a > b > c:
+    print ("O primeiro número é maior")
+elif b > a > c:
+    print ("O segundo número é maior")
+elif c > b > a:
+    print ("O terceiro número é maior")

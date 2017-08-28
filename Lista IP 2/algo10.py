@@ -1,0 +1,6 @@
+a = int(input("Digite um valor:"))
+horas = (a/3600)
+minutos = (a/60)
+print (a)
+print (horas)
+print (minutos)

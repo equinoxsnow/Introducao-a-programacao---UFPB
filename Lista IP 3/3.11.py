@@ -1,0 +1,7 @@
+Pm= int(input("Preço da mercadoria:"))
+Pd= int(input("Percentual de desconto:"))
+d= (Pd/100)
+PP= (Pm+(Pm*d))
+b= (PP-Pm)
+print(PP)
+print(b)

@@ -1,0 +1,6 @@
+x = int(input("Digite sua idade em dias:"))
+meses = (x/30)
+anos = (x/365)
+print (x)
+print (meses)
+print (anos)

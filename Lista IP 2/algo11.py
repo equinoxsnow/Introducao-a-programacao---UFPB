@@ -1,0 +1,5 @@
+cf = int(input("Digite um valor:"))
+a = (28+45/100)
+b = (cf*a)
+cc = (cf+b)
+print (cc)
